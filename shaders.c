@@ -1,3 +1,9 @@
+/*
+ * THIS IS SHADER CODE EXTRACTED FROM THE SOURCE
+ * OF THE GAME.
+ */
+
+
 // simple //
 attribute vec3 position;
 // simple.vertex //

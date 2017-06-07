@@ -1,3 +1,9 @@
+######################################################
+# DECOMPRESSES GZIP COMPRESSED FILES                 #
+# Files which had 0x1F and 0x8B as the first 2 bytes #
+# (like lyr2.mpz) were gzip compressed               #
+######################################################
+
 import gzip
 from optparse import OptionParser
 
