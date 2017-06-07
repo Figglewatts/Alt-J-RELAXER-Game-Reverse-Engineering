@@ -1,0 +1,114 @@
+[
+    {
+        "x": 1664,
+        "y": 384,
+        "w": 128,
+        "h": 128,
+        "clut": <ext of type 20 size 512>,
+        "data": <ext of type 18 size 16384>
+    },
+    {
+        "x": 1664,
+        "y": 256,
+        "w": 128,
+        "h": 128,
+        "clut": <ext of type 20 size 512>,
+        "data": <ext of type 18 size 16384>
+    },
+    {
+        "x": 1664,
+        "y": 128,
+        "w": 128,
+        "h": 128,
+        "clut": <ext of type 20 size 512>,
+        "data": <ext of type 18 size 16384>
+    },
+    {
+        "x": 1920,
+        "y": 0,
+        "w": 128,
+        "h": 128,
+        "clut": <ext of type 20 size 512>,
+        "data": <ext of type 18 size 16384>
+    },
+    {
+        "x": 640,
+        "y": 0,
+        "w": 256,
+        "h": 256,
+        "clut": <ext of type 20 size 512>,
+        "data": <ext of type 18 size 65536>
+    },
+    {
+        "x": 640,
+        "y": 256,
+        "w": 256,
+        "h": 256,
+        "clut": <ext of type 20 size 512>,
+        "data": <ext of type 18 size 65536>
+    },
+    {
+        "x": 896,
+        "y": 0,
+        "w": 256,
+        "h": 256,
+        "clut": <ext of type 20 size 512>,
+        "data": <ext of type 18 size 65536>
+    },
+    {
+        "x": 896,
+        "y": 256,
+        "w": 256,
+        "h": 256,
+        "clut": <ext of type 20 size 512>,
+        "data": <ext of type 18 size 65536>
+    },
+    {
+        "x": 1152,
+        "y": 0,
+        "w": 256,
+        "h": 256,
+        "clut": <ext of type 20 size 512>,
+        "data": <ext of type 18 size 65536>
+    },
+    {
+        "x": 1152,
+        "y": 256,
+        "w": 256,
+        "h": 256,
+        "clut": <ext of type 20 size 512>,
+        "data": <ext of type 18 size 65536>
+    },
+    {
+        "x": 1408,
+        "y": 0,
+        "w": 256,
+        "h": 256,
+        "clut": <ext of type 20 size 512>,
+        "data": <ext of type 18 size 65536>
+    },
+    {
+        "x": 1408,
+        "y": 256,
+        "w": 256,
+        "h": 256,
+        "clut": <ext of type 20 size 512>,
+        "data": <ext of type 18 size 65536>
+    },
+    {
+        "x": 1664,
+        "y": 0,
+        "w": 128,
+        "h": 128,
+        "clut": <ext of type 20 size 512>,
+        "data": <ext of type 18 size 16384>
+    },
+    {
+        "x": 1792,
+        "y": 0,
+        "w": 128,
+        "h": 256,
+        "clut": <ext of type 20 size 512>,
+        "data": <ext of type 18 size 32768>
+    }
+]
