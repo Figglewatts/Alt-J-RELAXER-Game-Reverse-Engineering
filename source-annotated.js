@@ -1,3 +1,14 @@
+/*
+ *  THIS IS THE SOURCE OF THE ALT-J RELAXER WEBGAME
+ *  I've annotated it in some places and modified
+ *  various variable names to make it more readable
+ *  but it's pretty much as-is.
+ *
+ *  It appears as though the source has been obfuscated
+ *  with something like Google's Closure Compiler, so
+ *  it's really difficult to read.
+ */
+
 !function() {
     "use strict";
     function t(t, e, a) {
@@ -362,6 +373,8 @@
         gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE),
         n
     }
+
+    // NOTE: loading texture from file??
     function P(t) {
         for (var e = new Uint8Array(4 * t.w * t.h), a = 0, n = 0, r = 0; r < t.h; ++r)
             for (var o = 0; o < t.w; ++o) {
@@ -4009,6 +4022,7 @@
             dataview_set: DataView.prototype.setUint16
         }
     }
+      // NOTE: could be map loading code??
       , St = function t(e, a) {
         q(this, t),
         this.name = e;
@@ -4852,7 +4866,7 @@
                 lt.rotateY(jt, jt, -.5 * o * Math.PI),
                 d.parts.forEach(function(t) {
                     var e = 0;
-                    s && (e = Math.floor(u / d.resolution % d.nframes));
+                    s && (e = Math.floor(u / d.resolution % d.nframes)); // NOTE: animation frame calculation??
                     for (var a = 16 * e, n = 0; n < 16; ++n)
                         Ht[n] = t.mats[a + n];
                     lt.multiply(Ht, jt, Ht),
